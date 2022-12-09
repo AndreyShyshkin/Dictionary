@@ -8,3 +8,4 @@
 - Валидация HTML документа.
 - Семантика.
 - Accessibility, или доступность.
+https://andreyshyshkin.github.io/Dictionary/html/12_Input_Types_Part_1/Files
