@@ -8,3 +8,4 @@
 - Валидация HTML документа.
 - Семантика.
 - Accessibility, или доступность.
+https://andreyshyshkin.github.io/Dictionary/html/10_Global_Site_Structure/Files
