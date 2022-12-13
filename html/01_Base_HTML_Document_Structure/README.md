@@ -1,7 +1,8 @@
 #  HTML5 Basics
 
 ### Описание курса:
-"<!DOCTYPE html>
+```bash
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,6 +11,6 @@
 <body>
   <h1>Hello world!</h1>
 </body>
-</html>"
-
+</html>
+```
 <a href="https://andreyshyshkin.github.io/Dictionary/html/01_Base_HTML_Document_Structure/Files">1</a>
