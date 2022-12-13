@@ -8,4 +8,4 @@
 - Валидация HTML документа.
 - Семантика.
 - Accessibility, или доступность.
-https://andreyshyshkin.github.io/Dictionary/html/11_Form/Files
+<a href="https://andreyshyshkin.github.io/Dictionary/html/11_Form/Files">11</a>
