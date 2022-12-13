@@ -1,12 +1,98 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+<body>
+
+  <!-- Unordered List -->
+  <ul>
+    <li>Front-end Developer</li>
+    <li>Bask-end Developer</li>
+    <li>Full-stack Developer</li>
+  </ul>
+  <hr>
+
+  <!-- Ordered List -->
+  <ol>
+    <li>Front-end Developer</li>
+    <li>Back-end Developer</li>
+    <li>Full-stack Developer</li>
+  </ol>
+  <hr>
+
+  <!-- Ordered List with start -->
+  <ol start="10">
+    <li>Front-end Developer</li>
+    <li>Back-end Developer</li>
+    <li>Full-stack Developer</li>
+  </ol>
+  <hr>
+
+  <!-- Ordered List with reversed -->
+  <ol reversed>
+    <li>Front-end Developer</li>
+    <li>Back-end Developer</li>
+    <li>Full-stack Developer</li>
+  </ol>
+  <hr>
+
+  <!-- Nested Unordered List -->
+  <ul>
+    <li>
+      Front-end Developer
+      <ul>
+        <li>Mobile</li>
+        <li>UI</li>
+        <li>Node.js</li>
+      </ul>
+    </li>
+    <li>Back-end Developer</li>
+    <li>Full-stack Developer</li>
+  </ul>
+  <hr>
+
+  <!-- Nested Ordered List -->
+  <ol>
+    <li>
+      Front-end Developer
+      <ol>
+        <li>Mobile</li>
+        <li>UI</li>
+        <li>Node.js</li>
+      </ol>
+    </li>
+    <li>Back-end Developer</li>
+    <li>Full-stack Developer</li>
+  </ol>
+  <hr>
+
+  <!-- Nested Unordered List with Inner Ordered List -->
+  <ul>
+    <li>
+      Front-end Developer
+      <ol>
+        <li>Mobile</li>
+        <li>UI</li>
+        <li>Node.js</li>
+      </ol>
+    </li>
+    <li>Back-end Developer</li>
+    <li>Full-stack Developer</li>
+  </ul>
+  <hr>
+
+  <!-- Definitions List -->
+  <dl>
+    <dt>Front-end Developer</dt>
+    <dd>It is a person who works with the visible part of website.</dd>
+
+    <dt>Back-end Developer</dt>
+    <dd>It is a person who works with the hidden part of a website, including databases and environments.</dd>
+  </dl>
+  <hr>
+
+</body>
+```
+
 
 <a href="https://andreyshyshkin.github.io/Dictionary/html/05_Lists/Files">5</a>
