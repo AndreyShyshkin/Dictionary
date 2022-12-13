@@ -1,11 +1,37 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+  <body>
+
+  <!-- Simple image -->
+  <img src="https://picsum.photos/300/300" alt="Just image">
+
+  <!-- Responsive image -->
+  <picture>
+    <source media="(min-width: 1024px)" srcset="https://picsum.photos/600/600">
+    <source media="(min-width: 768px)" srcset="https://picsum.photos/300/300">
+    <source media="(min-width: 360px)" srcset="https://picsum.photos/100/100">
+    <img src="https://picsum.photos/300/300" alt="Just image">
+  </picture>
+
+  <!-- Image with semantic description -->
+  <figure>
+    <img src="https://picsum.photos/300/300" alt="Just image" />
+    <figcaption>It is a simple description for a picture above</figcaption>
+  </figure>
+
+  <!-- Images with semantic description -->
+  <figure>
+    <img src="https://picsum.photos/300/300" alt="Just image" />
+    <img src="https://picsum.photos/300/300" alt="Just image" />
+    <img src="https://picsum.photos/300/300" alt="Just image" />
+    <figcaption>
+      <p>It is a simple description for a couple pictures above.It is a simple description for a couple pictures above.It is a simple description for a couple pictures above</p>
+    </figcaption>
+  </figure>
+
+</body>
+```
+
 <a href="https://andreyshyshkin.github.io/Dictionary/html/06_Images/Files">6</a>
