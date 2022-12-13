@@ -8,4 +8,4 @@
 - Валидация HTML документа.
 - Семантика.
 - Accessibility, или доступность.
- https://andreyshyshkin.github.io/Dictionary/html/02_Meta_Data_&_External_Imports/Files
+<a href="https://andreyshyshkin.github.io/Dictionary/html/02_Meta_Data_&_External_Imports/Files">2</a>
