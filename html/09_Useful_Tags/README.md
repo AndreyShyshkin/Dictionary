@@ -8,4 +8,4 @@
 - Валидация HTML документа.
 - Семантика.
 - Accessibility, или доступность.
-https://andreyshyshkin.github.io/Dictionary/html/09_Useful_Tags/Files
+<a href="https://andreyshyshkin.github.io/Dictionary/html/09_Useful_Tags/Files">9</a>
