@@ -9,4 +9,4 @@
 - Семантика.
 - Accessibility, или доступность.
 
-https://andreyshyshkin.github.io/Dictionary/html/05_Lists/Files
+<a href="https://andreyshyshkin.github.io/Dictionary/html/05_Lists/Files">5</a>
