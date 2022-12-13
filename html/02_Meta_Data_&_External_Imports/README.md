@@ -1,11 +1,74 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <!-- Document title in browser tabs -->
+  <title>HTML Basics</title>
+
+  <!-- Document Favicon in browser tabs -->
+	<link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+
+  <!-- Additional approach to add favicon -->
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+
+  <!-- SEO -->
+	<meta name="description" content="Test web page">
+	<meta name="keywords" content="html, webdev, Yauhen">
+	<meta name="author" content="Yauhen Kavalchuk">
+
+  <!-- For mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- For mobile & no resize -->
+  <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
+
+  <!-- Use latest version of IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- For external styles -->
+	<link rel="stylesheet" href="styles.css">
+
+  <!-- Local styles -->
+  <style>
+    div {
+      background-color: red;
+    }
+  </style>
+
+  <!-- Local styles fonts -->
+	<link rel="stylesheet" href="styles.css">
+
+  <!-- Google fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+
+  <!--[if IE]>
+   <p>This text you can see only in Internet Explorer</p>
+ <![endif]-->
+
+ <!--[if lt IE 10]>
+		<p>You will see this text only in IE9 and more later version</p>
+<![endif]-->
+
+  <!-- External scripts files -->
+  <script src="main.js"></script>
+
+  <!-- Local scripts -->
+  <script>
+    console.log('Hello world!');
+  </script>
+
+</body>
+</html>
+```
 <a href="https://andreyshyshkin.github.io/Dictionary/html/02_Meta_Data_&_External_Imports/Files">2</a>
