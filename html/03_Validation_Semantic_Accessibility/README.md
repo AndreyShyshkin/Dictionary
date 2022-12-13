@@ -1,11 +1,19 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+<body>
+  <!-- Block element -->
+  <div>Simple text</div>
+
+  <!-- Inline element -->
+  <span>Simple text</span>
+
+  <!-- Examples of semantic tags -->
+  <header></header>
+  <nav></nav>
+  <article></article>
+  <footer></footer>
+</body>
+```
 <a href="https://andreyshyshkin.github.io/Dictionary/html/03_Validation_Semantic_Accessibility/Files">3</a>
