@@ -1,11 +1,96 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+<body>
+
+  <!-- Telephone -->
+  <input type="tel">
+  <hr>
+
+  <!-- Search -->
+  <input type="search">
+  <hr>
+
+  <!-- Local date & time -->
+  <input type="datetime-local">
+  <hr>
+
+  <!-- Month -->
+  <input type="month">
+  <hr>
+
+  <!-- Time -->
+  <input type="time">
+  <hr>
+
+  <!-- Week -->
+  <input type="week">
+  <hr>
+
+  <!-- Hidden -->
+  <input type="hidden" value="webDev">
+  <hr>
+
+  <!-- File -->
+  <input type="file"><br>
+  <input type="file" multiple><br>
+  <hr>
+
+  <!-- Checkbox -->
+  <input type="checkbox" value="option1"><br>
+  <input type="checkbox" value="option2"><br>
+  <input type="checkbox" value="option3"><br>
+  <hr>
+
+  <!-- Radio -->
+  <input type="radio" name="value" value="option1"><br>
+  <input type="radio" name="value" value="option2"><br>
+  <input type="radio" name="value" value="option3"><br>
+  <hr>
+
+  <!-- Checkbox with checked element -->
+  <input type="checkbox" value="option1" checked><br>
+  <input type="checkbox" value="option2"><br>
+  <input type="checkbox" value="option3"><br>
+  <hr>
+
+  <!-- Radio with checked element -->
+  <input type="radio" name="value" value="option1"><br>
+  <input type="radio" name="value" value="option2" checked><br>
+  <input type="radio" name="value" value="option3"><br>
+  <hr>
+
+  <!-- Checkbox with label -->
+  <label>
+    <input type="checkbox" value="option1" checked>
+    Front-end dev
+  </label><br>
+  <label>
+    <input type="checkbox" value="option2">
+    Back-end dev
+  </label><br>
+  <label>
+    <input type="checkbox" value="option3">
+    Full-stack dev
+  </label>
+  <hr>
+
+  <!-- Radio with label -->
+  <label>
+    <input type="radio" name="value" value="option1">
+    Front-end dev
+  </label><br>
+  <label>
+    <input type="radio" name="value" value="option2" checked>
+    Back-end dev
+  </label><br>
+  <label>
+    <input type="radio" name="value" value="option3">
+    Back-end dev
+  </label>
+  <hr>
+
+</body>
+```
 <a href="https://andreyshyshkin.github.io/Dictionary/html/13_Input_Types_Part_2/Files">13</a>
