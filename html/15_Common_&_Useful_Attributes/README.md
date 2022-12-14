@@ -1,11 +1,61 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+<body>
+
+  <!-- ID -->
+  <h1 id="heading">Simple text</h1>
+  <hr>
+
+  <!-- Class -->
+  <p class="text idea">Simple text</p>
+  <p class="text">Simple text 2</p>
+  <hr>
+
+  <!-- Title -->
+  <h2 title="HyperText Markup Language">HTML</h2>
+  <hr>
+
+  <!-- Inline styles -->
+  <h2 style="color: red;">CSS</h2>
+  <hr>
+
+  <!-- Contenteditable -->
+  <h2 contenteditable="true">This content you can change</h2>
+  <hr>
+
+  <!-- Spellcheck -->
+  <textarea spellcheck="true" rows="10" cols="45" name="text">
+    This text cantain a cople misstakes
+  </textarea>
+  <hr>
+
+  <!-- Hidden -->
+  <h2 hidden>Hidden content</h2>
+  <hr>
+
+  <!-- Without tabindex -->
+  <input type="text" placeholder="name"><br>
+  <input type="text" placeholder="password"><br>
+  <input type="button" value="Submit"><br>
+  <hr>
+
+  <!-- With tabindex -->
+  <input type="text" placeholder="name" tabindex="1"><br>
+  <input type="text" placeholder="password" tabindex="3"><br>
+  <input type="button" value="Submit" tabindex="2"><br>
+  <hr>
+
+  <!-- Text direction -->
+  <h2 dir="rtl">Hello world!</h2>
+  <hr>
+
+  <!-- Language -->
+  <h2 lang="fr"><q>Hello world!</q></h2>
+  <h2 lang="en"><q>Hello world!</q></h2>
+  <hr>
+
+</body>
+```
 <a href="https://andreyshyshkin.github.io/Dictionary/html/15_Common_&_Useful_Attributes/Files">15</a>
