@@ -1,11 +1,56 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+<body>
+
+  <!-- Abbreviation -->
+  <abbr title="HyperText Markup Language">HTML</abbr> was created in 1993.
+  <hr>
+
+  <!-- List of options -->
+  <input list="list">
+  <datalist id="list">
+    <option value="Front-end">
+    <option value="Back-end">
+    <option value="Full-stack">
+  </datalist>
+  <hr>
+
+  <!-- Meter -->
+  <meter value="0" max="100" low="10" high="60">Course Progress</meter><br>
+  <meter value="20" max="100" low="40" high="60">Course Progress</meter><br>
+  <meter value="80" max="100" low="10" high="60">Course Progress</meter><br>
+  <meter value="100" max="100">Course Progress</meter>
+  <hr>
+
+  <!-- Progress bar -->
+  <progress value="30" max="100"></progress>
+  <hr>
+
+  <!-- No scripts tag -->
+  <noscript>Please switch on scripts in your browser!</noscript>
+
+  <!-- Marked text -->
+  <mark>Marked</mark>
+  <h2>To know HTML <mark>semantic</mark> is important</h2>
+  <hr>
+
+  <canvas id="example" width="200" height="200"></canvas>
+
+  <script>
+    const drawingCanvas = document.getElementById('example');
+    if(drawingCanvas && drawingCanvas.getContext) {
+      const context = drawingCanvas.getContext('2d');
+      context.fillStyle = "#000";
+      context.beginPath();
+      context.arc(100,100,100,0,Math.PI*2,true);
+      context.closePath();
+      context.stroke();
+      context.fill();
+    }
+  </script>
+
+</body>
+```
 <a href="https://andreyshyshkin.github.io/Dictionary/html/09_Useful_Tags/Files">9</a>
