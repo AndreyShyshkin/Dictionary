@@ -1,11 +1,66 @@
 #  HTML5 Basics
 
 ### Описание курса:
-В данном видео-курсе мы с вами рассмотрим все возможности языка гипертекстовой разметки HTML.
-А это, между прочим, основа каждого веб-сайта, или веб-приложения.
-Разберём основы, а так же изучим большинство новых тэгов, которые появились с новым стандартом HTML5.
-Дополнительно рассмотрим такие понятия, как:
-- Валидация HTML документа.
-- Семантика.
-- Accessibility, или доступность.
+```bash
+<body>
+
+  <!-- Text -->
+  <input type="text">
+  <hr>
+
+  <!-- Number -->
+  <input type="number"><br>
+  <input type="number" min="1" max="10"><br>
+  <input type="number" step="5"><br>
+  <hr>
+
+  <!-- Password -->
+  <input type="password">
+  <hr>
+
+  <!-- Range -->
+  <input type="range">
+  <hr>
+
+  <!-- Date -->
+  <input type="date">
+  <hr>
+
+  <!-- Color -->
+  <input type="color">
+  <hr>
+
+  <!-- Submit & reset buttons -->
+  <input type="submit"><br>
+  <input type="reset"><br>
+  <hr>
+
+  <!-- Submit & reset buttons with custom labels -->
+  <input type="submit" value="Submit form"><br>
+  <input type="reset" value="Reset form"><br>
+  <hr>
+
+  <!-- List of options -->
+  <input type="text" list="list">
+  <datalist id="list">
+    <option value="Front-end">
+    <option value="Back-end">
+    <option value="Full-stack">
+  </datalist>
+  <hr>
+
+  <!-- E-mail -->
+  <input type="email">
+  <hr>
+
+  <!-- URL -->
+  <input type="url">
+  <hr>
+
+  <!-- Input image -->
+  <input type="image" src="https://picsum.photos/300/300" alt="Just image">
+  <hr>
+
+</body>
+```
 <a href="https://andreyshyshkin.github.io/Dictionary/html/12_Input_Types_Part_1/Files">12</a>
