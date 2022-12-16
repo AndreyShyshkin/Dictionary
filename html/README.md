@@ -8,6 +8,7 @@
 - Валидация HTML документа.
 - Семантика.
 - Accessibility, или доступность.
+
 <a href="https://andreyshyshkin.github.io/Dictionary/html/01_Base_HTML_Document_Structure">1</a>
 <a href="https://andreyshyshkin.github.io/Dictionary/html/02_Meta_Data_&_External_Imports">2</a>
 <a href="https://andreyshyshkin.github.io/Dictionary/html/03_Validation_Semantic_Accessibility">3</a>
