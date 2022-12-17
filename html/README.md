@@ -11,7 +11,7 @@
 
 <a href="https://andreyshyshkin.github.io/Dictionary/html/01_Base_HTML_Document_Structure">1</a></br>
 <a href="https://andreyshyshkin.github.io/Dictionary/html/02_Meta_Data_&_External_Imports">2</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/03_Validation_Semantic_Accessibility">3</a>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/03_Validation_Semantic_Accessibility">3</a></br>
 <a href="https://andreyshyshkin.github.io/Dictionary/html/04_Text">4</a></br>
 <a href="https://andreyshyshkin.github.io/Dictionary/html/05_Lists">5</a></br>
 <a href="https://andreyshyshkin.github.io/Dictionary/html/06_Images">6</a></br>
