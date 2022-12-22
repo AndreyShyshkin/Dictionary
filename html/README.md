@@ -9,18 +9,18 @@
 - Семантика.
 - Accessibility, или доступность.
 
-<a href="https://andreyshyshkin.github.io/Dictionary/html/01_Base_HTML_Document_Structure">1</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/02_Meta_Data_&_External_Imports">2</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/03_Validation_Semantic_Accessibility">3</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/04_Text">4</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/05_Lists">5</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/06_Images">6</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/07_Table">7</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/08_Links_&_Buttons">8</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/09_Useful_Tags">9</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/10_Global_Site_Structure">10</a></br>
-<a href="https://andreyshyshkin.Github.io/Dictionary/html/11_Form">11</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/12_Input_Types_Part_1">12</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/13_Input_Types_Part_2">13</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/14_Video_&_Audio">14</a></br>
-<a href="https://andreyshyshkin.github.io/Dictionary/html/15_Common_&_Useful_Attributes">15</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/01_Base_HTML_Document_Structure">01_Base_HTML_Document_Structure</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/02_Meta_Data_&_External_Imports">02_Meta_Data_&_External_Imports</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/03_Validation_Semantic_Accessibility">03_Validation_Semantic_Accessibility</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/04_Text">04_Text</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/05_Lists">05_Lists</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/06_Images">06_Images</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/07_Table">07_Table</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/08_Links_&_Buttons">08_Links_&_Buttons</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/09_Useful_Tags">09_Useful_Tags</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/10_Global_Site_Structure">10_Global_Site_Structure</a></br>
+<a href="https://andreyshyshkin.Github.io/Dictionary/html/11_Form">11_Form</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/12_Input_Types_Part_1">12_Input_Types_Part_1</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/13_Input_Types_Part_2">13_Input_Types_Part_2</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/14_Video_&_Audio">14_Video_&_Audio</a></br>
+<a href="https://andreyshyshkin.github.io/Dictionary/html/15_Common_&_Useful_Attributes">15_Common_&_Useful_Attributes</a></br>
